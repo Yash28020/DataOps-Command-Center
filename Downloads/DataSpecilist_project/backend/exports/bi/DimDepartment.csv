@@ -1,0 +1,7 @@
+department_key,department_code,department_name,cost_center,head_of_department,budget
+1,DEP-SALES,Sales,CC-101,Sarah Jenkins,1250000.0
+2,DEP-FIN,Finance,CC-102,Marcus Vance,850000.0
+3,DEP-OPS,Operations,CC-103,Elena Rostova,2100000.0
+4,DEP-SUP,Supply Chain,CC-104,David Chen,1750000.0
+5,DEP-RET,Retail,CC-105,Amira Patel,3200000.0
+6,DEP-ENT,Enterprise,CC-106,Liam O'Connor,4500000.0

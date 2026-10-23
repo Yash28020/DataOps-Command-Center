@@ -1,0 +1,11 @@
+customer_key,customer_id,customer_name,email,segment,region,country,credit_limit
+1,CUST-1001,Nexora Global Logistics,,Enterprise,North America,United States,250000.0
+2,CUST-1002,BlueHarbor Retail Group,,Enterprise,Europe,United Kingdom,500000.0
+3,CUST-1003,Zenith Medical Supplies,,Commercial,North America,Canada,150000.0
+4,CUST-1004,Kuroda Precision Robotics,,Enterprise,Asia-Pacific,Japan,400000.0
+5,CUST-1005,Solstice Energy Labs,,Commercial,Europe,Germany,175000.0
+6,CUST-1006,Meridian Maritime Freight,,Enterprise,Asia-Pacific,Singapore,300000.0
+7,CUST-1007,Vanguard Agritech,,SMB,Latin America,Brazil,90000.0
+8,CUST-1008,Beacon FinTech Holdings,,Enterprise,North America,United States,600000.0
+9,CUST-1009,Nordic Data Systems,,Commercial,Europe,Sweden,140000.0
+10,CUST-1010,Aether Dynamics Aerospace,,Enterprise,North America,United States,800000.0

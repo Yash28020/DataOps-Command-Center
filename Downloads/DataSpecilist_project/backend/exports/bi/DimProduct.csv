@@ -1,0 +1,11 @@
+product_key,product_sku,product_name,category,department,unit_cost,list_price
+1,SKU-ENT-101,Apex Cloud Gateway Enterprise,Cloud Infrastructure,Enterprise,1200.0,2499.0
+2,SKU-ENT-102,Vortex AI Analytics Suite,Data Platforms,Enterprise,3100.0,5800.0
+3,SKU-RET-201,Smart Edge POS Terminal X3,Hardware,Retail,210.0,499.0
+4,SKU-RET-202,Omni-Channel Loyalty Sensor,Hardware,Retail,85.0,189.0
+5,SKU-OPS-301,Warehouse Autonomous Scanner,Industrial IoT,Operations,450.0,950.0
+6,SKU-OPS-302,Fleet Telematics Module 4G,Industrial IoT,Operations,140.0,320.0
+7,SKU-SUP-401,Pallet RFID Tracker Pack,Logistics,Supply Chain,65.0,145.0
+8,SKU-SUP-402,Cold-Chain Temperature Probe,Logistics,Supply Chain,110.0,275.0
+9,SKU-FIN-501,Treasury Reconciliation Connector,Financial Software,Finance,500.0,1200.0
+10,SKU-SAL-601,B2B Lead Intelligence Seat,SaaS Subscription,Sales,45.0,120.0
